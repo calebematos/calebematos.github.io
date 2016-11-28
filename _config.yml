@@ -49,7 +49,7 @@ front-end:
     level: 2
   - name: Bower
     level: 2 
-    
+
 back-end:
   - name: Java
     level: 5
@@ -57,11 +57,11 @@ back-end:
     level: 4
   - name: Node.js
     level: 2
-    
+
 mobile:
   - name: Android
     level: 2
-
+  
 db:
   - name: MySQL
     level: 4
@@ -96,7 +96,6 @@ methodologies:
 
 
 others:
-
   - name: JEE, JSF, JPA, EJB, CDI
     level: 5
   - name: PrimeFaces
