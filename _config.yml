@@ -33,15 +33,6 @@ bio: "Brazilian developer. Game, music and technology lover.
 #
 # If you don't want one of the sections below, leave the variable without any values
 
-
-back-end:
-  - name: Java
-    level: 5
-  - name: SQL
-    level: 4
-  - name: Node.js
-    level: 2
-    
 front-end:
   - name: HTML 5
     level: 4
@@ -59,7 +50,15 @@ front-end:
     level: 2
   - name: Bower
     level: 2 
-
+    
+back-end:
+  - name: Java
+    level: 5
+  - name: SQL
+    level: 4
+  - name: Node.js
+    level: 2
+    
 mobile:
   - name: Android
     level: 2
